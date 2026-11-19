@@ -1,0 +1,6 @@
+{
+  "name": "Kestrel Mail",
+  "description": "Self-hosted IMAP webmail client powered by Mistral AI with support for local Ollama, custom OpenAI-compatible AI services, Google Gemini, Google Inbox-style bundles, plain-English AI filters, keyboard-first navigation, and SQLite FTS5 search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
